@@ -5,3 +5,5 @@
 # Downloads
 
 [Clove's Pack](https://www.mazeymoos.com/modrinth/clove.mrpack)
+
+[Fabulously Optimized (SwissCat Remake)](https://www.mazeymoos.com/FabOpt.mrpack)
